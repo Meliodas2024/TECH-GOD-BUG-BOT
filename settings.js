@@ -1,4 +1,4 @@
-//base by Tech-God
+i//base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
 //Instagram: techgod143
@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "224660002740"
-global.ownername = "SUKUNA"
+global.ownernomer = "224662467232"
+global.ownername = "MACLAREN"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '224660002740'  //creator number
+global.ownernumber = '224662467232'  //creator number
 global.ownername = 'FURIX' //owner name
 global.botname = 'EXTENTION DU TERRITOIRE' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: 224662467232'
 
 //console view/theme
 global.themeemoji = '🪀'
